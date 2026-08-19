@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/miaze/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://wa.me/8801826315564?text=Hello%20Ayub">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 <a href="mailto:ayubmiazeraju@gmail.com">
 <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
