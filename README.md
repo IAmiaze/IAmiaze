@@ -1,12 +1,12 @@
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ayub+Miaze;Associate+Software+Engineer;Oracle+APEX+%7C+PL%2FSQL+Developer;Python+%7C+Data+Analysis+%7C+Machine+Learning;Building+Scalable+Enterprise+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ayub+Miaze;Software+Engineer;Oracle+APEX+%7C+PL%2FSQL+Developer;Python+%7C+Data+Analysis+%7C+Machine+Learning;Building+Scalable+Enterprise+Applications" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayub Miaze</h1>
 
 <h3 align="center">
-Associate Software Engineer | Oracle APEX Developer | Oracle Database | Python Learner
+Software Engineer | Oracle APEX Developer | Oracle Database | Python Learner
 </h3>
 
 <p align="center">
