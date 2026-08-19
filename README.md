@@ -1,292 +1,150 @@
-<!-- Animated Typing Banner -->
-<p align="center">
-  <a href="https://github.com/IAmiaze">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ayub+Miaze;Software+Engineer+%40+ERA+InfoTech;Oracle+APEX+%26+PL%2FSQL+Specialist;Enterprise+FinTech+%26+Banking+Solutions;AI+%7C+Data+Analytics+%7C+Machine+Learning" alt="Typing SVG"/>
-  </a>
-</p>
+<div align="center">
 
-<h1 align="center">Ayub Miaze</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Ayub+Miaze;Oracle+APEX+%26+PL%2FSQL+Architect;Enterprise+Banking+%26+FinTech+Engineer;Building+Secure%2C+Scalable+Core+Systems" alt="Typing SVG" />
 
-<p align="center">
-  <b>Software Engineer</b> | 
-  <b>Oracle APEX & Enterprise Solutions Specialist</b>
-</p>
+### Software Engineer · Oracle APEX & Enterprise Systems Specialist
+**Designing the systems banks trust — secure, scalable, and built to last.**
 
-<p align="center">
-  Designing secure, scalable enterprise applications and FinTech solutions using Oracle technologies while exploring AI, Data Analytics, and Modern Software Engineering practices.
-</p>
+<br/>
 
----
-
-<!-- Profile Badges -->
-
-<p align="center">
-
+<a href="https://www.linkedin.com/in/miaze/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ayubmiazeraju@gmail.com">
+<img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://github.com/IAmiaze">
-<img src="https://img.shields.io/github/followers/IAmiaze?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/IAmiaze">
-<img src="https://img.shields.io/github/stars/IAmiaze?style=for-the-badge&logo=github&label=Stars"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=IAmiaze&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/IAmiaze?style=for-the-badge&logo=github&label=FOLLOWERS&color=00C2FF" />
 
-<img src="https://komarev.com/ghpvc/?username=IAmiaze&style=for-the-badge&label=Profile%20Views"/>
+</div>
 
-</p>
+<br/>
 
+## 🧭 About Me
 
----
+I'm a software engineer specializing in **Oracle APEX and PL/SQL–driven enterprise architecture**, with a focus on **Agent Banking and Core Banking systems** in production FinTech environments. My work sits at the intersection of database engineering, secure application design, and business-critical reporting — systems where correctness and reliability aren't optional.
 
-# ⚡ Executive Summary
+- 🏦 Engineering banking-grade platforms with custom authentication, role-based access control, and audit-ready data models
+- 🗄 Deep specialization in **Oracle Database 19c**, advanced **PL/SQL**, and high-performance SQL tuning
+- ⚙️ Building modern **Oracle APEX** applications — custom UI/UX design systems, dynamic navigation, REST/SOAP integrations
+- 📊 Designing statistical and regulatory reporting pipelines with **JasperReports (JRXML)** and layered SQL view architectures
+- 🤖 Applying **Oracle Machine Learning** to fraud detection within banking transaction flows
+- 🐍 Extending the stack with **Python** for DevOps tooling, automation, and data workflows
+- 🎓 Also active as a **trainer**, delivering professional SQL & PL/SQL curricula for enterprise teams
 
-- 💼 Software Engineer at **ERA InfoTech Ltd.**
-- 🏦 Building Enterprise Banking & FinTech Applications
-- 🛠 Oracle APEX, PL/SQL & Oracle Database Specialist
-- 🗄 Oracle Database 19c | APEX 24.x | ORDS
-- ⚡ Experienced in SQL Optimization, API Integration & Database Design
-- 🤖 Exploring AI-assisted development workflows
-- 🌱 Currently learning:
-  - Python
-  - Data Analysis
-  - Machine Learning
-  - Full-Stack Development
+<br/>
 
+## 🎖 Certifications
 
----
+<div align="center">
 
-# 💻 Technology Stack
+| Credential | Issued |
+|---|---|
+| 🟠 Oracle APEX Cloud Developer Professional (1Z0-771) | May 2025 |
+| 🟠 Oracle APEX Developer Professional (1Z0-770) | Sep 2023 |
+| ☁️ Oracle Cloud Infrastructure 2023 Foundations Associate (1Z0-1085-23) | Jun 2023 |
+| 🗄 Oracle Database 11g Program with PL/SQL (1Z0-144) | Feb 2020 |
 
+</div>
 
-## Database & Backend
+**Academic Background:** BSS in Economics, National University of Bangladesh · Diploma in Database Design & Development, IsDB-BISEW
 
-<p>
+<br/>
 
-<img src="https://img.shields.io/badge/Oracle_Database-19c-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+## 🛠 Technology Stack
 
-<img src="https://img.shields.io/badge/Oracle_APEX-24.x-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<div align="center">
 
+**Database & Backend**
+
+<img src="https://img.shields.io/badge/Oracle_Database_19c-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/PL%2FSQL-Advanced-red?style=for-the-badge&logo=oracle"/>
-
-<img src="https://img.shields.io/badge/SQL-Expert-red?style=for-the-badge"/>
-
-</p>
-
-
-## Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
-
-</p>
-
-
-## Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<img src="https://img.shields.io/badge/REST_API-Integration-blue?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Oracle_APEX-24.x-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle_ORDS-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JasperReports-JRXML-orange?style=for-the-badge"/>
 
-</p>
+**Languages & Tooling**
 
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode"/>
 
----
+**Integration & Analytics**
 
-# 🚀 Engineering Focus
+<img src="https://img.shields.io/badge/REST%2FSOAP-API_Integration-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle_ML-Fraud_Detection-purple?style=for-the-badge"/>
 
-<table>
+</div>
 
+<br/>
+
+## 🚀 Engineering Focus
+
+<table width="100%">
 <tr>
-<td>
-
-🏦 FinTech Applications
-
-</td>
-
-<td>
-
-Agent Banking, Transaction Processing, Core Banking Integration
-
-</td>
-
+<td width="30%"><b>🏦 FinTech & Agent Banking</b></td>
+<td>Transaction processing, agent onboarding workflows, and core banking integrations built for regulatory rigor and scale.</td>
 </tr>
-
-
 <tr>
-<td>
-
-⚡ Database Engineering
-
-</td>
-
-<td>
-
-Query Optimization, PL/SQL Development, Data Modeling
-
-</td>
-
+<td><b>⚡ Database Engineering</b></td>
+<td>Query optimization, complex PL/SQL packages, and normalized data models tuned for high-volume banking workloads.</td>
 </tr>
-
-
 <tr>
-<td>
-
-🤖 AI & Analytics
-
-</td>
-
-<td>
-
-Fraud Detection, Machine Learning, Data Driven Applications
-
-</td>
-
+<td><b>🎨 APEX Application Design</b></td>
+<td>Custom UI/UX design systems, RBAC-driven dynamic menus, and phase-by-phase enterprise app delivery.</td>
 </tr>
-
-
 <tr>
-<td>
-
-🌐 Enterprise Systems
-
-</td>
-
-<td>
-
-Secure, scalable and high-performance business applications
-
-</td>
-
+<td><b>📈 Reporting & Statistical Systems</b></td>
+<td>Layered SQL view chains feeding consolidated regulatory and statistical reports via JasperReports.</td>
 </tr>
-
-
+<tr>
+<td><b>🤖 AI-Assisted Fraud Detection</b></td>
+<td>Oracle Machine Learning models integrated into live agent banking transaction pipelines.</td>
+</tr>
+<tr>
+<td><b>🎓 Technical Training</b></td>
+<td>Designing and delivering enterprise-grade SQL & PL/SQL courses for professional development teams.</td>
+</tr>
 </table>
 
+<br/>
 
----
+## 📊 GitHub Analytics
 
-# 📊 GitHub Performance
+<div align="center">
 
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=IAmiaze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmiaze&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🔥 GitHub Streak
-
-
-<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IAmiaze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmiaze&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=IAmiaze&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-
----
-
-# 📈 Contribution Activity
-
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmiaze&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
+<br/>
 
----
+## 🏆 Achievements
 
-# 🏆 GitHub Achievements
-
-
-<p align="center">
-
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=IAmiaze&theme=algolia&no-frame=true&margin-w=15&column=6"/>
+</div>
 
-</p>
+<br/>
 
+## 📚 Currently Deepening
 
----
+`Python for Automation` · `Data Analysis` · `Machine Learning` · `Cloud Architecture` · `Full-Stack Development`
 
-# 📚 Currently Learning
+<br/>
 
+<div align="center">
 
-- 🐍 Python Programming
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 🌐 Modern Web Development
-- ☁ Cloud Technologies
+*"First, solve the problem. Then, write the code."*
+**— John Johnson**
 
+⭐ **Thanks for stopping by — always open to connecting on Oracle, FinTech, and AI-driven engineering.**
 
----
-
-# 🤝 Connect With Me
-
-
-<p align="center">
-
-
-<a href="https://www.linkedin.com/in/miaze/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-
-<a href="mailto:ayubmiazeraju@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-
-<a href="https://github.com/IAmiaze">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-
-</p>
-
-
----
-
-# 💡 Quote
-
-
-<p align="center">
-
-<i>
-"First, solve the problem. Then, write the code."
-</i>
-
-<br>
-
-<b>— John Johnson</b>
-
-</p>
-
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+</div>
