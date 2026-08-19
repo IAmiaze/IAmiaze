@@ -131,6 +131,14 @@ I'm a software engineer specializing in **Oracle APEX and PL/SQL–driven enterp
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=IAmiaze&theme=algolia&no-frame=true&margin-w=15&column=6"/>
 </div>
+<p align="center">
+  <a href="https://github.com/IAmiaze?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Achievements-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
+  </a>
+  <a href="https://github.com/IAmiaze?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Earned-Pull%20Shark%20%7C%20Yolo%20%7C%20Quickdraw-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Badges Earned"/>
+  </a>
+</p>
 
 <br/>
 
