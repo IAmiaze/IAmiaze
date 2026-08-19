@@ -65,8 +65,8 @@ I'm a software engineer specializing in **Oracle APEX and PL/SQL–driven enterp
 **Database & Backend**
 
 <img src="https://img.shields.io/badge/Oracle_Database_10G_21xe_23AI_26AI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-Advanced-red?style=for-the-badge&logo=oracle"/>
-<img src="https://img.shields.io/badge/Oracle_APEX-24.x-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%2FPL%2FSQL-Advanced-red?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/Oracle_APEX-19.x-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle_ORDS-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JasperReports-JRXML-orange?style=for-the-badge"/>
 
