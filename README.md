@@ -24,15 +24,15 @@
 
 <br/>
 
-## 🧭 About Me
+## Field Notes
 
 I'm a software engineer specializing in **Oracle APEX and PL/SQL–driven enterprise architecture**, with a focus on **Agent Banking and Core Banking systems** in production FinTech environments. My work sits at the intersection of database engineering, secure application design, and business-critical reporting — systems where correctness and reliability aren't optional.
 
 - 🏦 Engineering banking-grade platforms with custom authentication, role-based access control, and audit-ready data models
-- 🗄 Deep specialization in **Oracle Database 19c**, advanced **PL/SQL**, and high-performance SQL tuning
+- 🗄 Deep specialization in **Oracle Database 10G,11G,12C,19c,21XE**, advanced **PL/SQL**, and high-performance SQL tuning
 - ⚙️ Building modern **Oracle APEX** applications — custom UI/UX design systems, dynamic navigation, REST/SOAP integrations
 - 📊 Designing statistical and regulatory reporting pipelines with **JasperReports (JRXML)** and layered SQL view architectures
-- 🤖 Applying **Oracle Machine Learning** to fraud detection within banking transaction flows
+- 🤖 Learning **Oracle Machine Learning** to fraud detection within banking transaction flows
 - 🐍 Extending the stack with **Python** for DevOps tooling, automation, and data workflows
 - 🎓 Also active as a **trainer**, delivering professional SQL & PL/SQL curricula for enterprise teams
 
@@ -61,7 +61,7 @@ I'm a software engineer specializing in **Oracle APEX and PL/SQL–driven enterp
 
 **Database & Backend**
 
-<img src="https://img.shields.io/badge/Oracle_Database_19c-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Database_10G_21xe_23AI_26AI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/PL%2FSQL-Advanced-red?style=for-the-badge&logo=oracle"/>
 <img src="https://img.shields.io/badge/Oracle_APEX-24.x-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle_ORDS-red?style=for-the-badge"/>
